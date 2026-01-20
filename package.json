@@ -1,0 +1,15 @@
+{
+  "name": "moon",
+  "version": "1.0.0",
+  "description": "moon project for creative coding II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Niesen",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^2.2.0",
+    "vite": "^7.3.1"
+  }
+}
